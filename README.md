@@ -6,7 +6,7 @@ As there is no existing real-world city camera traffic dataset, we utilize exist
 We annotate $60,000$ frames with the following information: (i) Bounding box: rectangle around each vehicle. (ii) Vehicle type: we annotated ten types including taxi, black sedan, other cars, little truck, middle truck, big truck, van, middle bus, big bus, other vehicles. (iii) Orientation: each vehicle orientation is annotated into four categories: 0, 90, 180, and 270 degrees. (iv) Vehicle density: the number of vehicles in ROI region of each frame. (v) Re-identification: we match the same car in sequential frames. (vi) Weather: we annotate five types of weather, including sunny, cloudy, rainy, snowy, and intensive sunshine. The annotation for two successive frames is shown in Figure 1. The dataset is divided into training and testing sets, with 45,850 and 14,150 frames, respectively. WebCamT serves as an appropriate dataset to evaluate our proposed method. It also motivates research on vision based traffic flow analysis, posing new challenges for state-of-the-art algorithms.
 
 This dataset is introduced in CVPR 2017 Paper "Understanding Traffic Density from Large-Scale Web Camera Data"
-Shanghang Zhang, shanghaz@andrew.cmu.edu,
+Shanghang Zhang, shz@eecs.berkeley.edu,
 Guanhang Wu, guanhanw@andrew.cmu.edu,
 Joao Paulo Costeira, jpc@isr.ist.utl.pt,
 Jose M.F. Moura, moura@andrew.cmu.edu.
