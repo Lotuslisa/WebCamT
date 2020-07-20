@@ -10,6 +10,9 @@ Shanghang Zhang, shanghaz@andrew.cmu.edu,
 Guanhang Wu, guanhanw@andrew.cmu.edu,
 Joao Paulo Costeira, jpc@isr.ist.utl.pt,
 Jose M.F. Moura, moura@andrew.cmu.edu.
+Please cite the paper if the dataset is helpful for you.
 
-Please email the authors if you are interested in the dataset.
 
+You can find more detailed dataset description and how to download in the following website:
+
+https://www.citycam-cmu.com/
